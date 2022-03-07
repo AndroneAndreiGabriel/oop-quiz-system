@@ -1,0 +1,8 @@
+﻿'QuizSystem.Terminal.exe' (CoreCLR: DefaultDomain): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.14\System.Private.CoreLib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'QuizSystem.Terminal.exe' (CoreCLR: clrhost): Loaded 'D:\FastTrackIT\GitHub\oop-quiz-system\QuizSystem\QuizSystem.Terminal\bin\Debug\net5.0\QuizSystem.Terminal.dll'. Symbols loaded.
+'QuizSystem.Terminal.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.14\System.Runtime.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'QuizSystem.Terminal.exe' (CoreCLR: clrhost): Loaded 'D:\FastTrackIT\GitHub\oop-quiz-system\QuizSystem\QuizSystem.Terminal\bin\Debug\net5.0\QuizSystem.Library.dll'. Symbols loaded.
+'QuizSystem.Terminal.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.14\System.Console.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'QuizSystem.Terminal.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.14\System.Threading.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'QuizSystem.Terminal.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.14\System.Text.Encoding.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+The program '[6880] QuizSystem.Terminal.exe' has exited with code 0 (0x0).
